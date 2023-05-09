@@ -1,0 +1,30 @@
+{
+  "name": "telegram-chatai-v-bot",
+  "version": "1.0.0",
+  "description": "The chatai-v bot uses Telegraf API to configure the Telegram bot and Whisper-1 transcription model together with the gpt-3.5-turbo model and express.js to start running your Telegram bot.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./src/*.js",
+    "start": "node ./src/main"
+  },
+  "keywords": [
+    "chatai",
+    "telegram bot",
+    "whisper model"
+  ],
+  "author": "kas1qqqq",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "openai": "^3.2.1",
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
