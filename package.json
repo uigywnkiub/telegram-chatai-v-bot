@@ -13,7 +13,6 @@
     "telegram bot",
     "whisper model"
   ],
-  "author": "kas1qqqq",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",

@@ -4,7 +4,7 @@ The chatai-v bot uses Telegraf API to configure the Telegram bot and Whisper-1 t
 
 ## Screenshots
 
-![App Screenshot](https://github.com/kas1qqqq/react-chatgpt-clone/assets/29861553/95ae8f4c-3123-4bef-b982-84b2fd38dd88)
+![App Screenshot](https://github.com/uigywnkiub/react-chatgpt-clone/assets/29861553/95ae8f4c-3123-4bef-b982-84b2fd38dd88)
 
 ## Installation
 
